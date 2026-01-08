@@ -1,6 +1,5 @@
-# Customer-Churn-Prediction
-This project implements a machine learning–based customer churn prediction system using the Telco Customer Churn dataset.
 # 📊 Customer Churn Prediction using Machine Learning
+This project implements a machine learning–based customer churn prediction system using the Telco Customer Churn dataset.
 
 **Machine Learning Course Project**  
 Department of Computer Science  
@@ -9,7 +8,7 @@ Belur Math, Howrah, West Bengal
 
 ---
 
-## 📌 Problem Statement
+##  Problem Statement
 
 Customer churn refers to the loss of existing customers over time. Predicting churn allows telecom companies to take preventive actions, improve customer satisfaction, and reduce revenue loss.
 
@@ -19,7 +18,7 @@ The project uses the **Telco Customer Churn dataset**, consisting of **7,043 cus
 
 ---
 
-## 🎯 Project Objectives
+##  Project Objectives
 
 - Perform data cleaning and preprocessing
 - Handle class imbalance in the churn dataset
@@ -29,7 +28,7 @@ The project uses the **Telco Customer Churn dataset**, consisting of **7,043 cus
 
 ---
 
-## 🧠 Proposed Methodology
+##  Proposed Methodology
 
 The workflow follows these key steps:
 
@@ -61,7 +60,7 @@ The workflow follows these key steps:
 
 ---
 
-## 📂 Dataset Details
+##  Dataset Details
 
 - **Dataset:** Telco Customer Churn Dataset
 - **Total Records:** 7,043
@@ -94,7 +93,7 @@ The workflow follows these key steps:
 
 ---
 
-## 🤖 Machine Learning Models Used
+##  Machine Learning Models Used
 
 The following models were trained and evaluated:
 
@@ -108,7 +107,7 @@ All models were trained on **SMOTE-balanced training data** and evaluated on the
 
 ---
 
-## 📈 Model Performance Comparison
+##  Model Performance Comparison
 
 | Model | Accuracy | Precision | Recall | F1-Score |
 |------|----------|-----------|--------|----------|
@@ -118,7 +117,7 @@ All models were trained on **SMOTE-balanced training data** and evaluated on the
 | Logistic Regression | 0.763 | 0.68 | 0.65 | 0.66 |
 | SVC | 0.758 | 0.67 | 0.63 | 0.65 |
 
-➡️ **XGBoost achieved the best overall performance**, offering the most balanced trade-off between precision and recall. :contentReference[oaicite:3]{index=3}
+ **XGBoost achieved the best overall performance**, offering the most balanced trade-off between precision and recall. :contentReference[oaicite:3]{index=3}
 
 ---
 
