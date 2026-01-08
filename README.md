@@ -117,7 +117,7 @@ All models were trained on **SMOTE-balanced training data** and evaluated on the
 | Logistic Regression | 0.763 | 0.68 | 0.65 | 0.66 |
 | SVC | 0.758 | 0.67 | 0.63 | 0.65 |
 
- **XGBoost achieved the best overall performance**, offering the most balanced trade-off between precision and recall. :contentReference[oaicite:3]{index=3}
+ **XGBoost achieved the best overall performance**, offering the most balanced trade-off between precision and recall. 
 
 ---
 
